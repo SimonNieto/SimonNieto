@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SimonNieto
 - 👀 I’m interested in a job
-- 🌱 I’m currently learning reactJS
+- 🌱 I’m currently learning WebDev technologies and C++ Memory management
 - 💞️ I’m looking to collaborate on projects
 - 📫 eslsimon59@gmail.com
 
